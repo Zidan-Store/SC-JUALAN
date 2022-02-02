@@ -48,13 +48,13 @@ namakontak3 = 'Tio'
 //kasihcaption = `Done`
 
 // Sticker WM
-global.packname = 'BOTCAHX' // ganti aja
-global.author = 'BOTCAHX' // ganti aja
+global.packname = 'GarXytBot' // ganti aja
+global.author = 'GarXytBot' // ganti aja
 
 //yyy
-bc = 'BCH' //BOTCAHX BROADCAST
-footer = '\n©BOTCAHX'
-namabot = '𝘽𝙊𝙏𝘾𝘼𝙃𝙓'
+bc = 'BOT' //GarXytBot BROADCAST
+footer = '\n©GarXytBot'
+namabot = 'GarXytBot'
 namalu = 'Tegar'
 
 
