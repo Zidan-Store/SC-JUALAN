@@ -1,5 +1,5 @@
 gc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-gc2 = ''
+gc2 = 'https://chat.whatsapp.com/BTQU2U9WetrFiYpqQ634CO'
 gc3 = ''
 global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'] // ganti jadi group lu
 global.owner = ['6281380311018','6282222792667','6282320830684'] // Put your number here //owner eval
