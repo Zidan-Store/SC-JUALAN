@@ -7,6 +7,7 @@ Donasi Bot via Dana:082221792667
 🔖 Download Tiktok Tanpa WM : https://tiodownloaders.herokuapp.com/
 Group Bot
 ${gc1}
+${gc2}
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', `*${global.packname}*`, 'status@broadcast') 
