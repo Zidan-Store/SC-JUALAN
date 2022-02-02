@@ -41,8 +41,8 @@ xteamkey = 'cristian9407'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Done`
-namakontak1 = 'Tegar'
-namakontak2 = 'Creator'
+namakontak1 = 'Owner Tegar'
+namakontak2 = 'Bot Creator'
 
 //kasihcaption = `Done`
 
