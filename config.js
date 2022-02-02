@@ -43,7 +43,6 @@ namagithub = 'GAK ADA :)'
 kasihcaption = `Done`
 namakontak1 = 'Tegar'
 namakontak2 = 'Creator'
-namakontak2 = 'Nomor bot'
 
 //kasihcaption = `Done`
 
