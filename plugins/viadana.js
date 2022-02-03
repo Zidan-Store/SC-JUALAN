@@ -3,6 +3,7 @@ let handler = async (m, { conn }) => {
 ╠═ Untuk Pembayaran Via DANA
 ╠➥ Ke nomer ini
 ║➥ 0813-8031-1018 (Owner Bot)
+║
 ║➥ 082221792667 (Creator)
 ║
 ║
