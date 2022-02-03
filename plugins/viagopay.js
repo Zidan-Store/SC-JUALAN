@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via Gopay
 ╠➥ Ke nomer ini
-║➥ Maaf Belum Tersedia Untuk Gopay
+║➥ 081380311018
 ║
 ╠═〘 Fitur 〙 ═
 ║
