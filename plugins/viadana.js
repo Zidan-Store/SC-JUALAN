@@ -2,7 +2,9 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via DANA
 ╠➥ Ke nomer ini
-║➥ 082221792667
+║➥ 0813-8031-1018 (Owner Bot)
+║➥ 082221792667 (Creator)
+║
 ║
 ╠═〘 Fitur 〙 ═
 ║
