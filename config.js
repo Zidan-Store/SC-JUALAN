@@ -52,9 +52,9 @@ global.author = 'GarXytBot' // ganti aja
 
 //yyy
 bc = 'BOT' //GarXytBot BROADCAST
-footer = '\n©GarXytBot'
-namabot = 'GarXytBot'
-namalu = 'Tegar'
+footer = '\n© Zibotz'
+namabot = 'Zibotz'
+namalu = 'Rozi'
 
 
 // 
