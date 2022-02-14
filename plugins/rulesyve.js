@@ -44,7 +44,6 @@ Adapun ketentuan untuk memakai _*BOTCAHX*_. :
 『 *2* 』 https://tiodownloaders.herokuapp.com/
 『 *OFC* 』 *Official Grup Whatsapp* :
 『✓』  ${gc1}
-『✓』  ${gc2}
 *────────────────────────*
 ═ 〔 Status 〕 ═
 『🔖』 ${namabot} Versi ${package.version}
