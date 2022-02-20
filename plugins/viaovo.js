@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via OVO
 ╠➥ Ke nomer ini
-║➥ Maaf Belum Tersedia Untuk OVO
+║➥ 089504575881
 ║
 ╠═〘 Fitur 〙 ═
 ║
