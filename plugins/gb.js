@@ -1,12 +1,9 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 ye = `@${m.sender.split`@`[0]}`
-let info = `Hai Kak ${ye} Kunjungi Website Download  Video Tiktok Kami
-Karena terkadang fitur di bot sering erorr 
-Donasi Bot via Dana:082221792667
-Bot utama wa.me/6282320830684
-🔖 Download Tiktok dengan WM : https://tioprm.herokuapp.com/
-🔖 Download Tiktok Tanpa WM : https://tiodownloaders.herokuapp.com/
-Group Bot
+let info = `Hai Kak ${ye} beli aja jasa run di link ini
+• https://bit.ly/3H3gy2z
+
+Join grup developer untuk info lebih lanjut,-
 ${gc1}
 `.trim()
 
