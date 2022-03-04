@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
   before: `
-┌─「 ${namabot} 」
+┌─「 ${KiritoBot} 」
 ├ Hai, %name!
 │
 ├ Tersisa %limit Limit
@@ -27,7 +27,7 @@ const defaultMenu = {
 ├ Database: %rtotalreg dari %totalreg
 ├ Memory Used : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 │
-├ Website store : https://bit.ly/3H3gy2z
+├ Website store : GAK ADA:)
 └────`.trimStart(),
   header: '┌─「 %category 」',
   body: '├%cmd %islimit %isPremium',
@@ -228,7 +228,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
           "title": `${ucapan()}, ${name}`.trim(),
-          "description": `*© BOTCAHX*
+          "description": `*© KiritoBot*
          `.trim(),
           "footerText": "Jika menemukan bug,error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
           "buttonText": "Click Here",
