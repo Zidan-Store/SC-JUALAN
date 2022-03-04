@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
-╠═ Untuk Pembayaran Via OVO
+╠═ Untuk Pembayaran Via OVO 
 ╠➥ Ke nomer ini
-║➥ 089504575881
+║➥ TIDAK TERSEDIA
 ║
 ╠═〘 Fitur 〙 ═
 ║
@@ -23,8 +23,8 @@ let handler = async (m, { conn }) => {
 ║   *FITUR LAINNYA*
 ║ 
 ╠═ ©2021
-╠═ Scrip original by Tio
-╠═〘 ${namabot} 〙 ═`.trim(), m)
+╠═ Scrip original by I`M 𝚉𝚒𝚍𝚊𝚗
+╠═〘 ${KiritoBot} 〙 ═`.trim(), m)
 }
 
 handler.command = /^viaovo$/i
